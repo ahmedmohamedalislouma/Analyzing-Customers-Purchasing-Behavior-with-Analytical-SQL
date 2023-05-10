@@ -14,7 +14,7 @@ Understanding customer behavior is essential for businesses to thrive in a compe
 
 This project utilizes the following datasets:
 
-1. OnlineRetail: This dataset contains 12,858 rows of retail transactions data. Each row represents a purchase made by a customer and includes information such as the invoice number, stock code, quantity, invoice date, price, customer ID, and country. This dataset provides valuable information for analyzing customer behavior and identifying purchasing patterns.
+1. OnlineRetail: This dataset contains 406,830 rows of retail transactions data. Each row represents a purchase made by a customer and includes information such as the invoice number, stock code, quantity, invoice date, price, customer ID, and country. This dataset provides valuable information for analyzing customer behavior and identifying purchasing patterns.
 
 2. DailyCustomers: The DailyCustomers dataset consists of 574,396 rows of daily purchasing transactions data for customers. Each row represents a purchase made by a customer and includes information such as the customer ID, purchasing date, and the amount. This dataset will be used to answer specific questions related to customer behavior analysis.
 
