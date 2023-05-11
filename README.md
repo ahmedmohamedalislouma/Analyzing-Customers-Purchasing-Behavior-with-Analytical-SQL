@@ -1,4 +1,4 @@
-# Analyzing Customers' Purchasing Transactions Behavior Using Analytical SQL
+# Analyzing Customers' Purchasing Behavior with Analytical SQL
 
 This project focuses on analyzing customer purchasing transactions to gain valuable insights into customer behavior and optimize sales, revenue, customer retention, and churn. By leveraging analytical SQL techniques, we aim to extract meaningful information from the data and make data-driven business decisions. This README provides an overview of the project, its objectives, datasets, steps, and the solutions to specific questions.
 
